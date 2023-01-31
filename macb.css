@@ -1,0 +1,30 @@
+/*this is an external css*/
+h1{
+	font-family: Tahoma;
+	color: skyblue;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px violet;
+	background-color: darkred;
+	text-indent: center; 
+}
+p{
+	text-indent: 25px;
+	color: white;
+}
+span{
+	text-decoration: underline;
+	font-variant: small-caps;
+}
+
+body{
+	background-color:lightgray ;
+}
+img{
+	border-style: solid;
+	border-color: white;
+	float: left;
+}
+small{
+	color: skyblue;
+}

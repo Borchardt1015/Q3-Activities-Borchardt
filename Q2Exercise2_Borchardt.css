@@ -1,0 +1,26 @@
+/*this is an external css*/
+h1{
+	font-family: Tahoma;
+	color: darkred;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px darkred;
+	background-color: darkred;
+	text-indent: center; 
+}
+
+}
+
+span{
+	text-decoration: underline;
+	font-variant: small-caps;
+}
+
+body{
+	background-color:lightgray ;
+}
+
+
+small{
+	color: skyblue;
+}
